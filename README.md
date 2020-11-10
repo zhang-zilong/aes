@@ -1,4 +1,7 @@
-# EasyAES
+# AES
+
+php ios android 三端通用的aes类库。
+
 AES encrypt/decrypt, Android, iOS, php compatible(兼容php, Android, iOS平台) 
 
 可以在三个平台间加密解密数据，确保某个平台加密的数据，在另外两个平台能够解密。
